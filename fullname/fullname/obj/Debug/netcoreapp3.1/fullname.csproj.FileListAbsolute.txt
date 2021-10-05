@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\TiTpe21\fullname\fullname\obj\Debug\netcoreapp3.1\fullname.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpe21\fullname\fullname\obj\Debug\netcoreapp3.1\fullname.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\fullname\fullname\obj\Debug\netcoreapp3.1\fullname.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\fullname\fullname\obj\Debug\netcoreapp3.1\fullname.csproj.CoreCompileInputs.cache
